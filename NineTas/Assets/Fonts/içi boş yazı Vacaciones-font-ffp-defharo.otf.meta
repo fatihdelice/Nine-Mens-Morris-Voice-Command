@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: bfe705a039e44b2498a03824221e013a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Vacaciones ffp
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c17edf3d9b5244e46b90e6768925bd50, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
