@@ -1,4 +1,4 @@
-# Mills Voice Command
+# Mills Game Voice Command
  en-> Mills game with voice command / tr-> Sesli komutlarla dokuz taş oyunu 
 <br><br>
 ![Resim2](https://user-images.githubusercontent.com/53579912/121417192-4a9a1a00-c972-11eb-832d-5601b3b7d389.png)
